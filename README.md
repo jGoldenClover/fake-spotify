@@ -1,4 +1,4 @@
-#Fazendo uma experiencia do Spotify personalizada pela api oferecida por eles.
+# Fazendo uma experiencia do Spotify personalizada pela api oferecida por eles.
 
 Grupo 2º B: 
 
